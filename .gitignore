@@ -1,0 +1,24 @@
+# MATLAB data files
+*.mat
+*.glm
+*.rtv
+*.vtc
+*.vmp
+*.voi
+*.poi
+*.msk
+*.smp
+*.fmr
+*.sdm
+*.mdm
+*.prt
+*.srf
+
+# MATLAB auto-generated
+matlab.mat
+
+# macOS
+.DS_Store
+
+# Editor lock/temp files
+.!*
